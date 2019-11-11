@@ -21,7 +21,28 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ExitExample.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FiveTimes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Greetings.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HelloName.py" />
+    <Compile Include="PrintRandom.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Swordfish.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="YourName.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Vampire.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
