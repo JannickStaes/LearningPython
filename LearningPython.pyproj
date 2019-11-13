@@ -27,10 +27,19 @@
     <Compile Include="FiveTimes.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="GlobalEggs.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Greetings.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="HelloFunc.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="HelloName.py" />
+    <Compile Include="Magic8Ball.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PrintRandom.py">
       <SubType>Code</SubType>
     </Compile>
