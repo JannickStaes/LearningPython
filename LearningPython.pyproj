@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Collatz.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ExitExample.py">
       <SubType>Code</SubType>
     </Compile>
@@ -31,6 +34,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Greetings.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GuessTheNumber.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HelloFunc.py">
@@ -50,6 +56,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Vampire.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ZeroDivide.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
