@@ -55,6 +55,9 @@
     <Compile Include="MyPets.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="PassingReference.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PrintRandom.py">
       <SubType>Code</SubType>
     </Compile>
