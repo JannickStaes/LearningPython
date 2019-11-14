@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="AllMyCats.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Collatz.py">
       <SubType>Code</SubType>
     </Compile>
@@ -44,6 +47,12 @@
     </Compile>
     <Compile Include="HelloName.py" />
     <Compile Include="Magic8Ball.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Magic8BallWithLists.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MyPets.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PrintRandom.py">
