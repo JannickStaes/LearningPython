@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d5283c8-02df-49dc-a005-ab8bf6a59ab7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>HelloName.py</StartupFile>
+    <StartupFile>CharacterPictureGrid.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>LearningPython</Name>
     <RootNamespace>LearningPython</RootNamespace>
+    <InterpreterId>Global|PythonCore|3.8</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -24,7 +25,13 @@
     <Compile Include="AllMyCats.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="CharacterPictureGrid.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Collatz.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CommaCode.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="ExitExample.py">
@@ -70,6 +77,9 @@
     <Compile Include="ZeroDivide.py">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.8" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
