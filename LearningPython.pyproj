@@ -25,6 +25,12 @@
     <Compile Include="AllMyCats.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Birthdays.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CharacterCount.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CharacterPictureGrid.py">
       <SubType>Code</SubType>
     </Compile>
@@ -69,6 +75,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Swordfish.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TicTacToe.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="YourName.py">
