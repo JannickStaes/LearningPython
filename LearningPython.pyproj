@@ -40,6 +40,7 @@
     <Compile Include="CommaCode.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Conway.py" />
     <Compile Include="ExitExample.py">
       <SubType>Code</SubType>
     </Compile>
