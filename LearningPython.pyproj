@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d5283c8-02df-49dc-a005-ab8bf6a59ab7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>CharacterPictureGrid.py</StartupFile>
+    <StartupFile>PicnicTable.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,10 +28,16 @@
     <Compile Include="Birthdays.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Catnapping.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="CharacterCount.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CharacterPictureGrid.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChessDictionaryValidator.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Collatz.py">
@@ -44,6 +50,9 @@
     <Compile Include="ExitExample.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="FantasyGameInventory.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="FiveTimes.py">
       <SubType>Code</SubType>
     </Compile>
@@ -54,6 +63,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="GuessTheNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GuestPicnic.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HelloFunc.py">
@@ -72,6 +84,9 @@
     <Compile Include="PassingReference.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="PicnicTable.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PrintRandom.py">
       <SubType>Code</SubType>
     </Compile>
@@ -79,6 +94,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TicTacToe.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ValidateInput.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="YourName.py">
