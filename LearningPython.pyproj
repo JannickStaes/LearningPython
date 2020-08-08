@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d5283c8-02df-49dc-a005-ab8bf6a59ab7</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PicnicTable.py</StartupFile>
+    <StartupFile>TablePrinter.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Birthdays.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BulletPointAdder.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Catnapping.py">
@@ -78,6 +81,9 @@
     <Compile Include="Magic8BallWithLists.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MClip.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="MyPets.py">
       <SubType>Code</SubType>
     </Compile>
@@ -87,10 +93,16 @@
     <Compile Include="PicnicTable.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="PigLatin.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PrintRandom.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Swordfish.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TablePrinter.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="TicTacToe.py">
